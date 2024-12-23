@@ -12,7 +12,10 @@ This repository contains a simple project that demonstrates how to build a binar
 ---
 
 ## Dataset
-The dataset is uploaded. You can downloaded it from files from this directory
+The dataset used for this project is publicly available on Kaggle:
+[Cats and Dogs for Classification](https://www.kaggle.com/dineshpiyasamara/cats-and-dogs-for-classification)
+
+Ensure you download the dataset and place the train data folder and test data folder correctly in the notebook.
 
 ---
 
